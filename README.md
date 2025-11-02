@@ -1,10 +1,3 @@
-# python-avanzado-fevPerfecto, David 👌
-Vas por el camino correcto: ese listado es un **índice técnico** excelente, pero si queremos transformarlo en un **temario extendido para un curso de 25 h en formato notebook-didáctico**, hay que darle **progresión pedagógica, objetivos, subtemas y laboratorios aplicados**.
-
-Aquí tienes la **versión desarrollada**, pensada para que cada módulo tenga su notebook teórico y su laboratorio con ejercicios interactivos, siguiendo tu enfoque de enseñanza activa en Codespaces.
-
----
-
 # 🧭 Curso: **Python Avanzado – 25 h**
 
 > Modalidad: práctica 100 % en Jupyter Notebooks (GitHub Codespaces)
@@ -257,6 +250,3 @@ notebooks/
 Cada módulo = 1 notebook teórico + 1 de laboratorio.
 Duración media por pareja: 2 h – 2 h 30 min.
 
----
-
-¿Quieres que te genere ahora la **plantilla base estándar** (en formato `.ipynb`) que usarás para todos los módulos —con secciones de *Teoría → Demostración → Ejercicio guiado → Reto final → Validación*— para que podamos construir a partir de ahí los notebooks reales?
